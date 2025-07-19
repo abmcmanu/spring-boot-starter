@@ -1,0 +1,57 @@
+[
+  {
+    "id": "p001",
+    "name": "Café Arabica Bio",
+    "description": "Un café pur Arabica issu de l'agriculture biologique, aux notes florales et légèrement acidulées.",
+    "images": [
+      "https://example.com/images/cafe1.jpg",
+      "https://example.com/images/cafe2.jpg",
+      "https://example.com/images/cafe3.jpg"
+    ],
+    "main_image": "https://example.com/images/cafe1.jpg"
+  },
+  {
+    "id": "p002",
+    "name": "Casque Bluetooth Noir",
+    "description": "Casque audio sans fil avec réduction de bruit active, autonomie de 30h.",
+    "images": [
+      "https://example.com/images/casque1.jpg",
+      "https://example.com/images/casque2.jpg",
+      "https://example.com/images/casque3.jpg"
+    ],
+    "main_image": "https://example.com/images/casque2.jpg"
+  },
+  {
+    "id": "p003",
+    "name": "Lampe de bureau LED",
+    "description": "Lampe à intensité variable avec port USB intégré et design moderne.",
+    "images": [
+      "https://example.com/images/lampe1.jpg",
+      "https://example.com/images/lampe2.jpg",
+      "https://example.com/images/lampe3.jpg"
+    ],
+    "main_image": "https://example.com/images/lampe3.jpg"
+  },
+  {
+    "id": "p004",
+    "name": "Sac à dos urbain 25L",
+    "description": "Compact et étanche, idéal pour les trajets quotidiens à vélo ou à pied.",
+    "images": [
+      "https://example.com/images/sac1.jpg",
+      "https://example.com/images/sac2.jpg",
+      "https://example.com/images/sac3.jpg"
+    ],
+    "main_image": "https://example.com/images/sac1.jpg"
+  },
+  {
+    "id": "p005",
+    "name": "Bouteille isotherme 500ml",
+    "description": "Garde le chaud 12h et le froid 24h. Inox brossé, sans BPA.",
+    "images": [
+      "https://example.com/images/bouteille1.jpg",
+      "https://example.com/images/bouteille2.jpg",
+      "https://example.com/images/bouteille3.jpg"
+    ],
+    "main_image": "https://example.com/images/bouteille2.jpg"
+  }
+]
